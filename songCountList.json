@@ -1,5 +1,4 @@
 {
-  "songCountList": [
     {
       "genreId": "lofi_hip_hop",
       "numberOfSongs": 1
@@ -96,5 +95,4 @@
       "genreId": "christmas",
       "numberOfSongs": 1
     }
-  ]
 }
