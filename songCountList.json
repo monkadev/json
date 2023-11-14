@@ -1,0 +1,100 @@
+{
+  "songCountList": [
+    {
+      "genreId": "lofi_hip_hop",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "tokyo_night_pop",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "drum_n_bass",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "electro_dance",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "house",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "tropical_house",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "techno_trance",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "acoustic",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "ambient",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "rock",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "pop",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "hip_hop",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "trap",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "drill",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "latin",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "jersey_club",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "r_b",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "beats",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "funk",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "world",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "electronica",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "orchestra",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "afrobeats",
+      "numberOfSongs": 1
+    },
+    {
+      "genreId": "christmas",
+      "numberOfSongs": 1
+    }
+  ]
+}
