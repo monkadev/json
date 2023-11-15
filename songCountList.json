@@ -1,99 +1,17 @@
 [
-
-     {
-      "genreId": "lofi_hip_hop",
-      "numberOfSongs": 2
-    },
     {
-      "genreId": "tokyo_night_pop",
+      "genreId": "lofi_hip_hop",
+      "genreName":"Lofi Hip Hop",
       "numberOfSongs": 2
     },
     {
       "genreId": "drum_n_bass",
+      "genreName":"Drum n Bass",
       "numberOfSongs": 2
     },
-    {
+     {
       "genreId": "electro_dance",
+      "genreName":"Electro & Dance",
       "numberOfSongs": 2
     },
-    {
-      "genreId": "house",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "tropical_house",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "techno_trance",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "acoustic",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "ambient",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "rock",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "pop",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "hip_hop",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "trap",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "drill",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "latin",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "jersey_club",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "r_b",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "beats",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "funk",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "world",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "electronica",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "orchestra",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "afrobeats",
-      "numberOfSongs": 2
-    },
-    {
-      "genreId": "christmas",
-      "numberOfSongs": 2
-    }
 ]
