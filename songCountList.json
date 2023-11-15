@@ -1,0 +1,17 @@
+[
+    {
+      "genreId": "lofi_hip_hop",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 2
+    },
+    {
+      "genreId": "drum_n_bass",
+      "genreName":"Drum n Bass",
+      "numberOfSongs": 2
+    },
+     {
+      "genreId": "electro_dance",
+      "genreName":"Electro & Dance",
+      "numberOfSongs": 2
+    },
+]
