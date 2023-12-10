@@ -2,22 +2,10 @@
     {
       "genreID": "lofi_hip_hop",
       "genreName":"Lofi Hip Hop",
-      "numberOfSongs": 2,
+      "numberOfSongs": 579,
       "numberOfImgs":2,
+        "pageURLSongs":"lofi_hip_hop",
+        "pageURLImgs":"lofi_hip_hop_imgs",
       "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
-    },
-    {
-      "genreID": "drum_n_bass",
-      "genreName":"Drum n Bass",
-      "numberOfSongs": 2,
-      "numberOfImgs":2,
-        "imgUrl": "https://cdn.leonardo.ai/users/03bcbd8f-9aea-4e59-b3e3-015053c00044/generations/0309e9a0-9d51-42ea-bd3c-be622a47d5f2/variations/Default_In_a_mesmerizingly_futuristic_dreamscape_a_cyberpunk_c_1_0309e9a0-9d51-42ea-bd3c-be622a47d5f2_1.jpg?w=512"
-    },
-     {
-      "genreID": "electro_dance",
-      "genreName":"Electro & Dance",
-      "numberOfSongs": 2,
-      "numberOfImgs":2,
-        "imgUrl": "https://cdn.leonardo.ai/users/54156f2c-18fb-4061-91e1-9c55086d5b1b/generations/0831cbf2-03b2-4cf9-adc2-fe3ff8c689e0/variations/Default_In_this_mesmerizing_still_a_menacingly_pristine_artifi_1_0831cbf2-03b2-4cf9-adc2-fe3ff8c689e0_1.jpg?w=512"
     }
 ]
