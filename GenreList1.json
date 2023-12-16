@@ -6,5 +6,45 @@
       "numberOfImgs":2,
       "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
       "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
-    }
+    },
+    {
+      "genreID": "lofi_hip_hop1",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 365,
+      "numberOfImgs":2,
+      "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
+      "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
+    {
+      "genreID": "lofi_hip_hop2",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 365,
+      "numberOfImgs":2,
+      "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
+      "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
+    {
+      "genreID": "lofi_hip_hop3",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 365,
+      "numberOfImgs":2,
+      "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
+      "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
+    {
+      "genreID": "lofi_hip_hop4",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 365,
+      "numberOfImgs":2,
+      "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
+      "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
+    {
+      "genreID": "lofi_hip_hop5",
+      "genreName":"Lofi Hip Hop",
+      "numberOfSongs": 365,
+      "numberOfImgs":2,
+      "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
+      "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
 ]
