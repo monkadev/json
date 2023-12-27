@@ -6,5 +6,13 @@
       "numberOfImgs":2,
       "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
       "imgUrl": "https://cdn.leonardo.ai/users/58924928-57e7-44cd-a79c-8f2cc90d679e/generations/58fd5435-170a-4b5b-9e57-e2995656cd93/variations/alchemyrefiner_alchemymagic_0_58fd5435-170a-4b5b-9e57-e2995656cd93_0.jpg?w=512"
+    },
+    {
+      "genreID": "edm_dance",
+      "genreName":"Dance - EDM",
+      "numberOfSongs": 107,
+      "numberOfImgs": 5,
+      "pageURL":"https://archive.org/download/edm_dance",
+      "imgUrl": "https://cdn.leonardo.ai/users/071fb0c9-736d-4186-bddc-581d7c911211/generations/0ffab521-36b8-40bd-aa49-dc3fbfe82a9b/Leonardo_Diffusion_XL_electronic_dance_music_artwork_0.jpg"
     }
 ]
