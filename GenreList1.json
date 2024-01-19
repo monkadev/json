@@ -5,7 +5,7 @@
       "numberOfSongs": 365,
       "numberOfImgs":2,
       "pageURL":"https://archive.org/download/lofi_hip_hop_20231211",
-      "imgUrl": "https://archive.org/download/covers_202401/lofi_hiphop.jpg"
+      "imgUrl": "https://i.imgur.com/AELkl70.jpg"
     },
     {
       "genreID": "edm_dance",
@@ -13,7 +13,7 @@
       "numberOfSongs": 107,
       "numberOfImgs": 5,
       "pageURL": "https://archive.org/download/edm_dance_202312",
-      "imgUrl": "https://archive.org/download/covers_202401/edm.jpg"
+      "imgUrl": "https://i.imgur.com/rRuIlhC.jpg"
     },
     {
       "genreID": "chill",
@@ -21,6 +21,6 @@
       "numberOfSongs": 71,
       "numberOfImgs": 2,
       "pageURL": "https://archive.org/download/chill_20240118",
-      "imgUrl": "https://archive.org/download/covers_202401/chill.jpg"
+      "imgUrl": "https://i.imgur.com/y4COpSR.jpg"
     }
 ]
